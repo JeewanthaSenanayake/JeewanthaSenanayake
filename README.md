@@ -18,8 +18,13 @@ I'm a software engineer who enjoys turning ideas into working products — from 
 
 
 
-- 💡 Open to collaborating on interesting full-stack or ML projects
-- 📫 Reach me at **jeewanthamsenanayake@gmail.com**
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeewantha-senanayake)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeewanthaSenanayake)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeewanthamsenanayake@gmail.com)
+
+</div>
 
 ---
 
@@ -78,9 +83,3 @@ I'm a software engineer who enjoys turning ideas into working products — from 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeewanthasenanayake&show_icons=true&locale=en&layout=compact" alt="jeewanthasenanayake" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeewanthasenanayake&show_icons=true&locale=en" alt="jeewanthasenanayake" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeewanthasenanayake&" alt="jeewanthasenanayake" /></p>
